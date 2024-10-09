@@ -1,3 +1,6 @@
+---
+title: JavaScript Interview
+---
 
 1. document load 和 document ready 的区别
 2. JavaScript 中如何检测一个变量是一个 String 类型？
@@ -23,7 +26,7 @@
 22. iframe 跨域通信和不跨域通信
 23. H5 与 Native 如何交互
 24. 如何判断一个对象是否为数组
-25. <script> 标签的 defer 和 asnyc 属性的作用以及二者的区别？
+25. \<script\> 标签的 defer 和 asnyc 属性的作用以及二者的区别？
 26. Object.prototype.toString.call() 和 instanceOf 和 Array.isArray() 区别好坏
 27. 什么是面向对象？
 28. 你对松散类型的理解

@@ -1,3 +1,6 @@
+---
+title: jQuery Interview
+---
 
 1. 说下 jQuery/Zepto 中的 on 方法有哪些参数，分别代表什么意思？
 2. 谈一下 Jquery 中的 bind(), live(), delegate(), on()的区别？
