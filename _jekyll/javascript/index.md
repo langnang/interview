@@ -1,5 +1,5 @@
 ---
-title: JavaScript Interview
+title: JavaScript 
 ---
 
 1. document load 和 document ready 的区别

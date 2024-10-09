@@ -1,5 +1,5 @@
 ---
-title: jQuery Interview
+title: jQuery 
 ---
 
 1. 说下 jQuery/Zepto 中的 on 方法有哪些参数，分别代表什么意思？
